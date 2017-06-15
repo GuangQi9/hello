@@ -15,7 +15,7 @@ _This **text** is_
 2. This text
 3. This text
 
-1.This text
-1.This textis
+1. This text
+1. This textis
 1. This text is
 
