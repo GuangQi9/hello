@@ -1,5 +1,5 @@
-*This text*
-_This text_
+* This text *
+_ This text _
 
 **This text**
 __This text__
