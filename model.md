@@ -34,3 +34,11 @@ _This **text** is_
   * Mention all the members of my team
   
     * Ask for feedback
+
+1. Push my commits to GitHub
+
+  * Describe my changes
+  
+     * Mention all the members of my team
+     
+       * Ask for feedback
