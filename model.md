@@ -51,4 +51,4 @@ _This **text** is_
 3. Open a pull request
   * Describe my changes
     * Mention all the members of my team
-      * Ask for feedback
+      * Asku for feedback
