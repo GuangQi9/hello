@@ -37,8 +37,6 @@ _This **text** is_
 
 1. Push my commits to GitHub
 
-  * Describe my changes
-  
-     * Mention all the members of my team
-     
+  * Describe my changes 
+     * Mention all the members of my team     
        * Ask for feedback
