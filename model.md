@@ -24,4 +24,4 @@ _This **text** is_
 
 [github](http://github.com)
 
-![Image of Mummytocat](https://octodex.github.com/mummytocat.png)
+![Image of Octoliberty](https://octodex.github.com/images/octoliberty.png)
