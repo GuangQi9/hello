@@ -22,6 +22,6 @@ _This **text** is_
 1. This textis
 1. This text is
 
-[github]
+[github](http://github.com)
 
-![Image of mummytocat]
+![Image of mummytocat](https://octodex.github.com/images/mummytocat.png)
