@@ -1,10 +1,13 @@
-* This text *
-_ This text _
+*This text*
+
+_This text_
 
 **This text**
+
 __This text__
 
 ~~This text~~
+
 _This **text** is_
 
 - This text
